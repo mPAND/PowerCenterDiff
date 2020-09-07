@@ -1,0 +1,9 @@
+{
+    "leftfile_name": "data/V1.xml",
+    "rightfile_name": "data/V2.xml",
+    "line_count_leftfile": 234,
+    "line_count_rightfile": 220,
+    "common_lines": 220,
+    "deletions_in_leftfile": 0,
+    "additons_in_rightfile": 0
+}
