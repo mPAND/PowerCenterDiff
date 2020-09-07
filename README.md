@@ -15,7 +15,7 @@ This utility helps to idenfity exact differences easily by sorting xml tags and 
 
 ### Quick Start
 
-    python src/XMLDiffer.py -m data/V1.xml data/V2.xml > v1_v2_difference.html
+    python src/XMLDiffer.py -m data/V1.xml data/V2.xml -c > v1_v2_difference.html
     
  Compares V1.xml and V2.xml and generates a HTML page with side by side comparison
  
